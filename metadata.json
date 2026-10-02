@@ -1,0 +1,7 @@
+{
+  "name": "August 17th Parade - Interactive Audio Reader & Story Lab",
+  "description": "An interactive English learning story reader with Gemini 3.8 Flash TTS voice narration, karaoke sentence highlighting, vocabulary analysis, grammar breakdown, comprehension quiz, and pronunciation practice.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
